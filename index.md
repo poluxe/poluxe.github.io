@@ -3,7 +3,7 @@
     <link> href= "estilo.css" rel = "stylesheet"/>
   <head/> 
     <body>
-      Hola mundo
+      <h1>Hola mundo</h1>
     </body>
  <html/>
     
